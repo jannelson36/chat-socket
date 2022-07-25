@@ -1,6 +1,3 @@
-# chat-socket
-Chat application using socket.io
-
 # Chat App
 
 This is a chat implementation using sockets
